@@ -1,0 +1,20 @@
+{
+  "name": "mock-static-files",
+  "version": "0.0.1",
+  "description": "a mock static files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-for-cw/mockStaticFiles.git"
+  },
+  "keywords": [
+    "mock",
+    "static",
+    "files"
+  ],
+  "author": "cw<cw2k13as@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm-for-cw/mockStaticFiles/issues"
+  },
+  "homepage": "https://github.com/npm-for-cw/mockStaticFiles#readme"
+}
