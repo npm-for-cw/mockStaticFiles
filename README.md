@@ -2,5 +2,5 @@
 # mock static files
 
 # get files
-* https://cdn.jsdelivr.net/Owner/RepositoryName/path@x.x.x.*
+* https://cdn.jsdelivr.net/gh/npm-for-cw/mockStaticFiles/**/*.*
 
